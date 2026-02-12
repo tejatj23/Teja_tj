@@ -1,28 +1,51 @@
 <h1 align="center">Teja J</h1>
 
 <p align="center">
-  <b>M.Tech CSE (Data Science) | AI & Machine Learning Enthusiast</b>
+  <b>Integrated M.Tech (CSE - Data Science) | AI • ML • Data Science • Web Development</b>
 </p>
 
 <p align="center">
-  📍 Vellore, India &nbsp; | &nbsp; 
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> &nbsp; | &nbsp;
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  📍 India  
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 M.Tech CSE (Data Science) @ VIT Vellore (2021–2026)  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Predictive Analytics  
-📊 Interested in building real-world, data-driven solutions  
-🚀 Focused on solving industrial and societal problems using AI  
+🎓 Integrated M.Tech in Computer Science and Engineering (Data Science) (2022–2027)  
+🤖 Passionate about Machine Learning, Artificial Intelligence, and Data-Driven Systems  
+📊 Interested in building real-world predictive and intelligent applications  
+🌐 Exploring Web Development to develop complete end-to-end solutions  
+🚀 Focused on solving industrial and societal problems using technology  
 
-```python
-class TejaJ:
-    def __init__(self):
-        self.role = "AI / ML Engineer"
-        self.education = "M.Tech CSE (Data Science)"
-        self.location = "Vellore, India"
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Data Science"]
+I enjoy working on practical projects that combine analytics, automation, and intelligent decision-making systems.
+
+---
+
+## 📌 Areas of Interest
+
+- Artificial Intelligence  
+- Machine Learning  
+- Natural Language Processing  
+- Predictive Analytics  
+- Intelligent Systems  
+- Full Stack Development  
+
+---
+
+## 📊 Current Focus
+
+- Strengthening Data Structures & Algorithms  
+- Solving coding problems regularly  
+- Building AI-based real-world projects  
+- Exploring scalable ML deployment  
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled AI/ML Engineer capable of designing intelligent, scalable, and impactful solutions that solve real-world challenges.
+
+---
+
+⭐ Always open to collaboration, innovation, and continuous learning.
