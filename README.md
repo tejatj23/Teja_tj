@@ -36,16 +36,6 @@ Passionate about building intelligent systems and solving real-world problems us
 I enjoy combining AI with Web Development to create complete end-to-end applications.
 
 ---
-
-```python
-class TejaJ:
-    def __init__(self):
-        self.role = "AI / ML Engineer"
-        self.location = "India"
-        self.education = "Integrated M.Tech (CSE - Data Science)"
-        self.passion = "Building Intelligent & Scalable Systems"
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Data Science", "Web Development"]
-
 ---
 
 ## 🛠 Technical Skills
@@ -109,3 +99,14 @@ class TejaJ:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
+
+
+```python
+class TejaJ:
+    def __init__(self):
+        self.role = "AI / ML Engineer"
+        self.location = "India"
+        self.education = "Integrated M.Tech (CSE - Data Science)"
+        self.passion = "Building Intelligent & Scalable Systems"
+        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Data Science", "Web Development"]
+---
