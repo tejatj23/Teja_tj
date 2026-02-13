@@ -55,25 +55,7 @@ I enjoy combining AI with Web Development to create complete end-to-end applicat
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🏏 Semantic Text Compression | Hybrid NLP compression using SBERT + Huffman + zlib | Python, NLP |
-| 📊 Product Demand Forecasting | Time-series forecasting model for business prediction | PyTorch, ML |
-| 🤖 AI Smart Driver Assistant | Traffic sign detection & behavior analysis system | Computer Vision |
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Analytics_(GA4)-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_AI_Vector_Search-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
